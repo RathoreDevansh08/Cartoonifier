@@ -1,7 +1,7 @@
 # Cartoonifier
 Cartoonifier program involving techniques of OpenCV and image processing, built using Python programming language.</br>
 
-[![](cartoonifier_poster.png)]
+![](cartoonifier_poster.png)
 
 ## Methods/Techniques used:
 > Sobel edge detection</br>
