@@ -4,9 +4,9 @@ Cartoonifier program involving techniques of OpenCV and image processing, built 
 [![](cartoonifier_poster.png)]
 
 ## Methods/Techniques used:
-> Sobel edge detection
-> Laplacian Filter
-> Bilateral Filter
+> Sobel edge detection</br>
+> Laplacian Filter</br>
+> Bilateral Filter</br>
 
 ## Credits:
 > Kaushal Kishore (Mentor) [CSE(B.Tech) - IIT Palakkad]</br>
